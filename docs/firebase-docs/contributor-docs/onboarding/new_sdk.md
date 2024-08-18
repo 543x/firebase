@@ -3,16 +3,12 @@ parent: Onboarding
 ---
 
 # Creating a new Firebase SDK
-{: .no_toc}
-
-1. TOC
-{:toc}
 
 Want to create a new SDK in
 [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)?
 Read on.
 
-{:toc}
+
 
 ## Repository layout and Gradle
 
