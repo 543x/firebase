@@ -3,10 +3,6 @@ parent: Firebase Components
 ---
 
 # Dependencies
-{: .no_toc}
-
-1. TOC
-{:toc}
 
 This page gives an overview of the different dependency types supported by the Components Framework.
 
