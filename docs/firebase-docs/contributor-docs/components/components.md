@@ -5,10 +5,6 @@ nav_order: 4
 ---
 
 # Firebase Components
-{: .no_toc}
-
-1. TOC
-{:toc}
 
 Firebase is known for being easy to use and requiring no/minimal configuration at runtime.
 Just adding SDKs to the app makes them discover each other to provide additional functionality,
