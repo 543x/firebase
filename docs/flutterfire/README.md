@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://firebase.google.com/docs/flutter">
-    <img width="250px" src=".github/images/flutterfire_300x.png" alt="Flutter + Firebase logo"><br/>
-  </a>
-  <h1 align="center">FlutterFire</h1>
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/flutterfiredev">
@@ -19,7 +14,7 @@
 
 ---
 
-[[Changelog]](./CHANGELOG.md) • [[Packages]](https://pub.dev/publishers/firebase.google.com/packages)
+
 
 ---
 
