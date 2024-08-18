@@ -41,10 +41,6 @@ During initialization, `FirebaseApp` discovers all Firebase SDKs present in the 
 
 In addition to `FirebaseOptions`, `FirebaseApp` registers additional components that product SDKs can request via dependency injection. To name a few:
 
-* `android.content.Context`(Application context)
-* [Common Executors]({{ site.baseurl }}{% link components/executors.md %})
-* `FirebaseOptions`
-* Various internal components
 
 ## Discovery and Dependency Injection
 
