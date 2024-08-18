@@ -78,9 +78,9 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/docs/全球AI网站', label: 'Firebase', position: 'right'},
-          {to: '/docs/ai网站', label: 'supabase', position: 'right'},
-          {to: '/docs/AI网站导航', label: 'netdata', position: 'right'},
+          {to: '/docs/', label: 'Firebase', position: 'right'},
+          {to: '/docs/', label: 'supabase', position: 'right'},
+          {to: '/docs/', label: 'netdata', position: 'right'},
           { href: 'https://www.543x.com', label: 'Help', position: 'right' },
           {
             href: 'https://github.com/543x/firebase',
