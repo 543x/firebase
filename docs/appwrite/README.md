@@ -1,14 +1,6 @@
 > Our Appwrite Init event has concluded. You can check out all the new and upcoming features [on our Init website](https://appwrite.io/init) 🚀
 
-<br />
-<p align="center">
-    <a href="https://appwrite.io" target="_blank"><img src="./public/images/banner.png" alt="Appwrite Logo"></a>
-    <br />
-    <br />
-    <b>Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.</b>
-    <br />
-    <br />
-</p>
+
 
 <!-- [![Build Status](https://img.shields.io/travis/com/appwrite/appwrite?style=flat-square)](https://travis-ci.com/appwrite/appwrite) -->
 
