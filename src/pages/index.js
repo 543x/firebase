@@ -132,4 +132,4 @@ function Home() {
   );
 }
 
-default Home;
+export default Home;
