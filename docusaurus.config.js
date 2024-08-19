@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Firebase',
-  tagline: 'Build your app infrastructure, improve your app quality, and grow your business with tools from Google.',
+  tagline: 'Google tools help build applications, improve quality and efficiency, and promote business growth',
   url: 'https://d.543x.com',
   favicon: 'img/favicon.png',
 
@@ -78,9 +78,9 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/docs/', label: 'Firebase', position: 'right'},
-          {to: '/docs/', label: 'supabase', position: 'right'},
-          {to: '/docs/', label: 'netdata', position: 'right'},
+          {to: '/docs/Firebase/Carthage', label: 'Firebase', position: 'right'},
+          {to: '/docs/supabase/ai/ai-concepts', label: 'supabase', position: 'right'},
+          {to: '/docs/netdata/Demo-Sites', label: 'netdata', position: 'right'},
           { href: 'https://www.543x.com', label: 'Help', position: 'right' },
           {
             href: 'https://github.com/543x/firebase',

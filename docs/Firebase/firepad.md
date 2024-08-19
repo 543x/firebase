@@ -1,4 +1,4 @@
-# Firepad [![Actions Status][gh-actions-badge]][gh-actions] [![Coverage Status](https://img.shields.io/coveralls/FirebaseExtended/firepad.svg?branch=master&style=flat)](https://coveralls.io/r/FirebaseExtended/firepad) [![Version](https://badge.fury.io/gh/firebase%2Ffirepad.svg)](http://badge.fury.io/gh/firebase%2Ffirepad)
+# Firepad
 
 [Firepad](http://www.firepad.io/) is an open-source, collaborative code and text editor. It is
 designed to be embedded inside larger web applications.
@@ -39,7 +39,7 @@ earn money. You can [sign up here for a free account](https://console.firebase.g
 Visit [firepad.io](http://demo.firepad.io/) to see a live demo of Firepad in rich text mode, or the
 [examples page](http://www.firepad.io/examples/) to see it setup for collaborative code editing.
 
-[![a screenshot of demo.firepad.io including a picture of two cats and a discussion about fonts](screenshot.png)](http://demo.firepad.io/)
+
 
 
 ## Downloading Firepad

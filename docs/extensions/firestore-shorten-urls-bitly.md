@@ -1,4 +1,4 @@
-# Get started
+# firestore-shorten-urls-bitly
 
 ## Use the Shorten URLs in Firestore extension
 

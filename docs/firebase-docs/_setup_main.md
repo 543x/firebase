@@ -257,7 +257,7 @@ guides for [iOS+](/docs/analytics/get-started?platform=ios),
 
 The Firebase SDK for Flutter supports using Trusted Types to help prevent
 DOM-based (client-side) XSS attacks. When you
-[enable Trusted Type enforcement](https://web.dev/trusted-types/#switch-to-enforcing-content-security-policy){:.external}
+[enable Trusted Type enforcement](https://web.dev/trusted-types/#switch-to-enforcing-content-security-policy)
 for your app, the Firebase SDK injects its scripts into the DOM using custom
 Trusted Type policies, named `flutterfire-firebase_core`,
 `flutterfire-firebase_auth`, and so on.

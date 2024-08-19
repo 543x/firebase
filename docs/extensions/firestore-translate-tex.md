@@ -1,4 +1,4 @@
-# Get started
+# firestore-translate-tex
 
 ## **Using the Translate Text in Firestore extension**
 

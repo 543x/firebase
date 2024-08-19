@@ -1,4 +1,4 @@
-# Get started
+# rtdb-limit-child-nodes
 
 ## Use the \***\*Limit Child Nodes extension\*\***
 

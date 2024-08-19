@@ -157,7 +157,7 @@ Custom keys help you get the specific state of your app leading up to a crash.
 You can associate arbitrary key/value pairs with your crash reports, then use
 the custom keys to search and filter crash reports in the {{name_appmanager}}.
 
-* In the [{{crashlytics}} dashboard](https://console.firebase.google.com/project/_/crashlytics){:.external},
+* In the [{{crashlytics}} dashboard](https://console.firebase.google.com/project/_/crashlytics),
   you can search for issues that match a custom key.
 
 * When you're reviewing a specific issue in the console, you can view the

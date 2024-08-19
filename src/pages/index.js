@@ -41,7 +41,7 @@ const components = [
   },
   {
     title: 'appwrite📝',
-    content: '🔥Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love',
+    content: '🔥Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community ',
     url: 'https://appwrite.io/',
   },
   {
@@ -79,7 +79,7 @@ function Home() {
           <img
             className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
             alt="Create SOLANA logo"
-            src={useBaseUrl('img/logo.svg')}
+            src={useBaseUrl('img/logo.png')}
           />
           <h1 className={clsx('hero__title', styles.heroTitle)}>{siteConfig.title}</h1>
           <p className={clsx('hero__subtitle', styles.heroSubtitle)}>{siteConfig.tagline}</p>
@@ -132,4 +132,4 @@ function Home() {
   );
 }
 
-export default Home;
+default Home;

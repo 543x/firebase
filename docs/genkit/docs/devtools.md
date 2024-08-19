@@ -37,13 +37,13 @@ npx genkit start
 
 The UI will load in your default browser:
 
-![Welcome to Genkit Developer UI](resources/welcome_to_genkit_developer_ui.png)
+
 
 The Developer UI has action runners for `flow`, `prompt`, `model`, `tool`, `retreiver`, `indexer`, `embedder` and `evaluator` configured in your `genkit.conf` file.
 
 Here's a quick gif tour with cats.
 
-![Gif overview of Genkit Developer UI](resources/genkit_developer_ui_overview.gif)
+
 
 ### Analytics
 
