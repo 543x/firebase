@@ -79,7 +79,6 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/Firebase/Carthage', label: 'Firebase', position: 'right'},
-          {to: '/docs/supabase/ai/ai-concepts', label: 'supabase', position: 'right'},
           {to: '/docs/netdata/Demo-Sites', label: 'netdata', position: 'right'},
           { href: 'https://www.543x.com', label: 'Help', position: 'right' },
           {
@@ -139,8 +138,8 @@ const config = {
             title: 'Social',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/543x/firebase',
+                label: 'solana',
+                href: 'https://b.543x.com',
               },
               {
                 label: 'Conduct',
